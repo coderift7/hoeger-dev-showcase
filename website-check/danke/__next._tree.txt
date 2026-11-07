@@ -1,0 +1,4 @@
+:HL["/hoeger-dev-showcase/_next/static/media/dcc2f1532f204149-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/hoeger-dev-showcase/_next/static/css/7206e5b01ddd3e08.css","style"]
+:HL["/hoeger-dev-showcase/_next/static/css/330f16c203cb3879.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"website-check","param":null,"prefetchHints":0,"slots":{"children":{"name":"danke","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"QYbSJz5UIJolIxpI2sBQv"}
