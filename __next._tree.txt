@@ -1,6 +1,6 @@
 :HL["/hoeger-dev-showcase/_next/static/media/dcc2f1532f204149-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/hoeger-dev-showcase/_next/static/css/488b9516683cdb58.css","style"]
-:HL["/hoeger-dev-showcase/_next/static/css/3115a32b97b66093.css","style"]
+:HL["/hoeger-dev-showcase/_next/static/css/fdf54c12b3bdd506.css","style"]
 :HL["/hoeger-dev-showcase/images/kinevato-logo.png","image"]
 :HL["/hoeger-dev-showcase/images/michael-hero.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"iU5DcZjL3MsTOp40nj8Bh"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"m-IMuwF7J5nx5q0n1MYkl"}
