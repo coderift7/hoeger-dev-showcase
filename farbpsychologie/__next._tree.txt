@@ -1,5 +1,5 @@
 :HL["/hoeger-dev-showcase/_next/static/media/dcc2f1532f204149-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
 :HL["/hoeger-dev-showcase/_next/static/css/488b9516683cdb58.css","style"]
-:HL["/hoeger-dev-showcase/_next/static/css/0ff219a4c7cd102b.css","style"]
+:HL["/hoeger-dev-showcase/_next/static/css/f8715daa2a05bcf6.css","style"]
 :HL["/hoeger-dev-showcase/_next/static/css/26a29a5a0788ad0b.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"farbpsychologie","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"59RYi8ie4r4tr_3vIzi14"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"farbpsychologie","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"drY0IOqM0CF0T3xniZNwl"}
