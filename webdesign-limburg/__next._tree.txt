@@ -1,4 +1,3 @@
-:HL["/hoeger-dev-showcase/_next/static/media/dcc2f1532f204149-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-:HL["/hoeger-dev-showcase/_next/static/css/488b9516683cdb58.css","style"]
-:HL["/hoeger-dev-showcase/_next/static/css/f8715daa2a05bcf6.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"webdesign-limburg","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"drY0IOqM0CF0T3xniZNwl"}
+:HL["/hoeger-dev-showcase/_next/static/chunks/0c-0z-gb4xf~7.css","style"]
+:HL["/hoeger-dev-showcase/_next/static/media/SpaceGrotesk-s.p.0~nbaealk-_u-.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"webdesign-limburg","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"5KGDeKBWA8hOfwXtpeEVI"}
